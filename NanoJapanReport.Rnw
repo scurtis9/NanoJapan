@@ -1,0 +1,225 @@
+\documentclass[11pt,letterpaper]{article}
+
+\newcommand{\workingDate}{\textsc{2013 $|$ November $|$ 12}}
+\newcommand{\userName}{Shane Curtis}
+\newcommand{\institution}{The University of Tulsa}
+\usepackage{researchdiary_png}
+\usepackage{rotating}
+
+% To add your univeristy logo to the upper right, simply
+% upload a file named "logo.png" using the files menu above.
+
+\begin{document}
+\univlogo
+\title{NanoJapan}
+
+{\Huge NanoJapan and RQI Comparisons}\\[5mm]
+
+\textit{The following is a comparative report of students participating the in the NanoJapan and RQI programs for the year 2013. NanoJapan is a 12-week summer program in which 12 undergraduate students majoring in science and engineering complete nanotechnology research internships with university labs in Japan. The program is funded by a National Science Foundation Partnership for International Research and Education (PIRE) grant that is maintained at Rice University. Students in the REU program at RQI participate in a similar undergraduate program but do not go abroad. They will serve as the comparative group. Students participating in each program are compared on the IDI, EGPI, Georgia Tech Internship Survey, and ratings from the poster session}
+
+
+\section*{IDI}
+The Intercultural Development Inventory (IDI) is theoretically grounded in Bennett's Development Model of Intercultural Sensitivity. Bennett's model proposes six stages of increasing sensitivity to cultural differences (see Table \ref{table:theory}). As one's experience of cultural difference becomes more sophisticated, one's competence in intercultural relations increases. The IDI consists of 50-items and measures how a person tends to think and feel about cultural differences stemming from any aspect of diversity, human identity, and cultural difference. Students participating in both the NanoJapan and RQI programs completed the IDI before their summer internship began and at the end of the summer internship experience. Summary statistics for both groups are presented in  Table \ref{IDI}. \\
+
+\begin{table}[!h] \centering
+  \caption{Stages of Intercultural Sensitivity}
+  \label{table:theory}
+\begin{tabular}{@{\extracolsep{5pt}} lcp{8cm}}
+\\[-1.8ex]\hline
+\hline \\[-1.8ex]
+Dimension & Score Range & Description \\
+\hline \\[-1.8ex]
+Denial & (55-70)
+& Assumes there are no real differences among people from different cultures \\
+\\
+Defense & (70-85)
+& Other cultures are viewed as threats \\
+\\
+Minimization & (85-115)
+& Recognition of common humanity regardless of culture; sill an ethnocentric orientation \\
+\\
+Acceptance & (115-130)
+& Preceive cultural differences in context \\
+\\
+Adaptation & (130-145)
+& Able to consciously shift perspective and intentionally alter behaviors amidst different cultures \\
+\hline \\[-1.8ex]
+\normalsize
+\end{tabular}
+\end{table}
+
+\begin{table}[!htbp] \centering 
+  \caption{IDI Descriptives by Group} 
+  \label{IDI} 
+\begin{tabular}{@{\extracolsep{5pt}} lcccc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex]
+& \multicolumn{2}{c}{NanoJapan} & \multicolumn{2}{c}{RQI}\\
+\cline{2-3}\cline{4-5}
+\\[-1.8ex]
+Test & Mean & SD & Mean & SD \\ 
+\hline \\[-1.8ex] 
+Pretest  & $81.64$ & $16.26$ & $88.87$ & $12.75$ \\ 
+Posttest & $82.55$ & $6.64$ & $89.88$ & $15.54$  \\ 
+\hline \\[-1.8ex] 
+\normalsize 
+\end{tabular} 
+\end{table}
+
+
+
+\section*{Georgia Tech Internship Survey}
+The Georgia Tech International Internship Survey is designed to assess student skills, abilities, and knowledge related to their field. Students rate the degree to which they feel the ability is (1) important and (2) how prepared they feel regarding the ability. Group means for the pre and post internship surveys are presented in Tables \ref{GT}, \ref{GT2}, and \ref{GT3}. \\
+
+
+\begin{sidewaystable}[!htbp] \centering 
+  \caption{Georgia Tech Internship Survey} 
+  \label{GT} 
+\begin{tabular}{@{\extracolsep{5pt}} p{8cm}cccccccc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex]
+& \multicolumn{4}{c}{NanoJapan} & \multicolumn{4}{c}{RQI}\\
+\cline{2-5}\cline{6-9}
+\\[-1.8ex]
+\\
+& \multicolumn{2}{c}{Pretest} & \multicolumn{2}{c}{Posttest} & \multicolumn{2}{c}{Pretest} & \multicolumn{2}{c}{Posttest} \\
+\cline{2-3}\cline{4-5}\cline{6-7}\cline{8-9}
+\\[-1.8ex]
+\\
+The ability to: & IMP & PREP & IMP & PREP & IMP & PREP & IMP & PREP \\
+\hline \\[-1.8ex]
+Exercise leadership skills
+& $3.50$ & $3.17$ & $3.91$ & $3.91$ & $3.62$ & $2.92$ & $3.69$ & $3.62$ \\ 
+\\
+Function on multi-disciplinary or cross-functional teams
+& $4.25$ & $3.25$ & $4.73$ & $4.55$ & $4.38$ & $3.92$ & $3.92$ & $3.62$ \\ 
+\\
+Effectively function in your host country's culture and society
+& $4.33$ & $2.42$ & $4.55$ & $4.36$ & $3.54$ & $3.50$ & $4.38$ & $3.69$ \\  
+\\
+Practice your discipline in different social or cultural settings
+& $3.83$ & $2.67$ & $4.64$ & $4.45$ & $3.00$ & $3.17$ & $3.15$ & $3.77$ \\ 
+\\
+Communicate in your host country's language in a social setting
+& $4.00$ & $1.50$ & $3.73$ & $3.09$ & $3.54$ & $3.17$ & $3.62$ & $3.31$ \\ 
+\\
+Communicate in your host country's language in a professional setting
+& $3.92$ & $1.50$ & $3.82$ & $3.09$ & $4.00$ & $3.08$ & $4.00$ & $3.15$ \\
+\\
+Professionally collaborate with persons in your host country's workplace environment
+& $4.42$ & $2.75$ & $4.27$ & $3.73$ & $4.31$ & $3.42$ & $4.00$ & $4.00$ \\ 
+\\
+Work effectively and efficiently in a cross-cultural environment
+& $4.58$ & $2.75$ & $4.45$ & $4.36$ & $4.00$ & $3.08$ & $3.92$ & $3.77$ \\ 
+\\
+Approach problems from different perspectives
+& $4.83$ & $3.33$ & $4.45$ & $4.18$ & $4.69$ & $3.92$ & $4.00$ & $4.00$ \\
+\hline \\[-1.8ex]
+\multicolumn{9}{l}{\textit{Note:} \textit{IMP:} Importance; \textit{PREP:} Preparedness.}
+\normalsize 
+\end{tabular} 
+\end{sidewaystable}
+ 
+
+
+
+
+\begin{sidewaystable}[!htbp] \centering 
+  \caption{Georgia Tech Internship Survey} 
+  \label{GT2} 
+\begin{tabular}{@{\extracolsep{5pt}} p{8cm}cccccccc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex]
+& \multicolumn{4}{c}{NanoJapan} & \multicolumn{4}{c}{RQI}\\
+\cline{2-5}\cline{6-9}
+\\[-1.8ex]
+\\
+& \multicolumn{2}{c}{Pretest} & \multicolumn{2}{c}{Posttest} & \multicolumn{2}{c}{Pretest} & \multicolumn{2}{c}{Posttest} \\
+\cline{2-3}\cline{4-5}\cline{6-7}\cline{8-9}
+\\[-1.8ex]
+\\
+An understanding of: & IMP & PREP & IMP & PREP & IMP & PREP & IMP & PREP \\
+\hline \\[-1.8ex]
+The role of your discipline in solving global problems
+& $4.67$ & $3.75$ & $4.27$ & $3.80$ & $3.77$ & $3.33$ & $3.46$ & $3.69$ \\ 
+\\
+Your host country and their culture(s) beliefs and values within a global and comparative context
+& $4.67$ & $2.58$ & $4.36$ & $4.00$ & $3.15$ & $3.25$ & $3.54$ & $3.69$ \\
+\hline \\[-1.8ex]
+\multicolumn{9}{l}{\textit{Note:} \textit{IMP:} Importance; \textit{PREP:} Preparedness}
+\normalsize 
+\end{tabular} 
+\end{sidewaystable}
+
+
+
+\begin{table}[!h] \centering 
+  \caption{Georgia Tech Internship Survey} 
+  \label{GT3} 
+\begin{tabular}{@{\extracolsep{5pt}} p{8cm}cccc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex]
+& \multicolumn{2}{c}{NanoJapan} & \multicolumn{2}{c}{RQI}\\
+\cline{2-3}\cline{4-5}
+\\[-1.8ex]
+Skills and Abilities & Pretest & Posttest & Pretest & Posttest \\
+\hline \\[-1.8ex]
+If I am in a difficult situation, I can usually think of a solution
+& $3.50$ & $3.40$ & $3.50$ & $3.31$ \\
+\\
+I can always manage to solve difficult problems if i try hard enough
+& $3.41$ & $3.20$ & $3.40$ & $3.46$ \\
+\\
+Thanks to my resourcefulness, I know how to handle unforeseen situations
+& $3.00$ & $3.44$ & $3.20$ & $3.00$ \\
+\\
+When I am confronted with a problem, I can usually find several solutions
+& $3.08$ & $3.60$ & $3.30$ & $3.30$ \\
+\\
+I can usually handle whatever comes my way 
+& $3.33$ & $3.70$ & $3.20$ & $3.53$ \\
+\hline \\[-1.8ex]
+\multicolumn{5}{l}{\textit{Note:} 1 = \textit{Not at all true}, 4 = \textit{Exactly true}.}
+\normalsize 
+\end{tabular} 
+\end{table}
+
+
+\section*{Poster Session}
+At the end of the summer students from both programs presented posters detailing the work they did over the course of the summer. These posters are presented at the Rice Quantum Institute Symposium. Expert judges, drawn from Rice faculty and industry representatives, judge the posters on overall understanding and knowledge of the field research. Students were rated on a five point likert scale (1 = \textit{strongly disagree}, 5 = \textit{strongly agree}). Results of the poster session are presented in Table \ref{PS}.
+
+
+\begin{table}[!h] \centering 
+  \caption{Poster Session Scores by Group} 
+  \label{PS} 
+\begin{tabular}{@{\extracolsep{5pt}} p{9cm}cc}
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+Performance Dimension & RQI & NanoJapan \\ 
+\hline \\[-1.8ex] 
+The student demonstrates an understanding of the specific purpose of the research project
+& $4.21$ $(.73)$ & $4.37$ $(.61)$ \\
+\\
+The student is able to clearly explain the project's context
+& $3.94$ $(.80)$ & $4.13$ $(.86)$ \\
+\\
+The student demonstrates an appropriate understanding of the relevant details of the technical methods and analyses used in the research
+& $4.20$ $(.76)$ & $4.23$ $(.94)$ \\
+\\
+The student is able to intelligently discuss what can be learned and concluded from the research and future implications next steps
+& $3.88$ $(.78)$ & $4.05$ $(.80)$ \\
+\\
+The poster is well designed
+& $3.72$ $(.89)$ & $4.10$ $(.79)$ \\
+\\
+The student is able to provide a succinct explanation about the poster that can be understood by diverse audiences
+& $3.83$ $(.73)$ & $4.05$ $(.61)$ \\
+\hline \\[-1.8ex] 
+\multicolumn{3}{l}{\textit{Note:} Standard deviations are presented in parentheses}
+\normalsize
+\end{tabular} 
+\end{table} 
+
+
+
+\end{document}
